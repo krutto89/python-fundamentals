@@ -9,5 +9,5 @@ class Dog(Animal):
 
 
 dogObj = Dog()
-dogObj.bark()
+# dogObj.bark()
 dogObj.speak()

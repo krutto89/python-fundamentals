@@ -14,5 +14,6 @@ person2 =Person('juliet',23,'female')
 person3 = Person('koech',22,'male')
 print(person1.name)
 print(person2.age)
+print(person2.gender)
 
 
